@@ -24,8 +24,8 @@ summary(cars)
 You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
-# CHANGE no 8
-plot(pressure, col = "burlywood")
+# CHANGE no 9
+plot(pressure, col = "black")
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
